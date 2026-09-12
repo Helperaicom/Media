@@ -1,0 +1,6 @@
+{
+  "name": "CreatorStream",
+  "description": "Video upload, streaming, offline downloads, and creator subscription platform with user authentication and creator studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
